@@ -1,16 +1,21 @@
 .blue {
-    border: 2px;
-    border-color: blue;
+    border: 2px solid blue;
 }
 .green {
-    border: 2px;
-    border-color: green;
+    border: 2px solid green;
 }
 .orange {
-    border: 2px;
-    border-color: orange;
+    border: 2px solid orange;
 }
 .red {
-    border: 2px;
-    border-color: red;
+    border: 2px solid red;
+}
+.ffooff {
+    border: 2px solid #ff00ff;
+}
+.hidden {
+    display: none;
+}
+.shown {
+    display: block;
 }

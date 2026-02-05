@@ -1,0 +1,10 @@
+{
+  "capteurs": [
+    {
+      "type": "Thermique",
+      "Nom": "Interieur",
+      "Valeur": 20,
+      "Timestamp": 1700000000
+    }
+  ]
+}
